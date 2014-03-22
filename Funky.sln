@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Funky", "Funky\Funky.fsproj", "{235090FA-3DD1-402D-B1E4-7CACC4BF1CB4}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FunkyTests", "FunkyTests\FunkyTests.fsproj", "{B9A5FC4F-2F94-4CB6-8C94-46EC6925A340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{235090FA-3DD1-402D-B1E4-7CACC4BF1CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235090FA-3DD1-402D-B1E4-7CACC4BF1CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235090FA-3DD1-402D-B1E4-7CACC4BF1CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235090FA-3DD1-402D-B1E4-7CACC4BF1CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A5FC4F-2F94-4CB6-8C94-46EC6925A340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A5FC4F-2F94-4CB6-8C94-46EC6925A340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A5FC4F-2F94-4CB6-8C94-46EC6925A340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A5FC4F-2F94-4CB6-8C94-46EC6925A340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
